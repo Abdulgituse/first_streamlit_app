@@ -60,7 +60,7 @@ try:
 # output it as the screen as table
 
 
-streamlit.stop()
+#streamlit.stop()
 
 
 
